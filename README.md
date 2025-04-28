@@ -36,7 +36,7 @@ Flask-Registration/
 ## 🚀 Quick Start
 
 ### Prerequisites
-- Python 3.6+
+- Python 3.6+ (tested on 3.13.1)
 - pip package manager
 
 ### Installation
